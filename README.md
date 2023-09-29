@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haseebismail703
 - 👀 I’m interested in  website , app and Game develpment  
 - 🌱 I’m currently learning  website , app develpment 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  haseebismail703@gmail.com
 
 <!---
