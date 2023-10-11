@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haseebismail703
+- 👋 Hi, I’m @Haseeb
 - 👀 I’m interested in  website , app and Game develpment  
 - 🌱 I’m currently learning  website , app develpment 
 - 💞️ I’m looking to collaborate on 
