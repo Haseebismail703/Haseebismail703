@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haseebismail
 - 👀 I’m interested in  website , app and Game develpment  
-- 🌱 I’m currently learning  website , app develpment 
+- 🌱 I’m currently learning  website 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  haseebismail703@gmail.com
 
