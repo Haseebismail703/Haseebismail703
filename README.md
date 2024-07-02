@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach haseebismail703@gmail.com
 - My  bloge website => https://lucent-basbousa-44a9ce.netlify.app
-- airforshare alternate =>  website https://shareforyou.netlify.app
+- airforshare alternate ==>  website https://shareforyou.netlify.app
 <!---
 Haseebismail703/Haseebismail703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
