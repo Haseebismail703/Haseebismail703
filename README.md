@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haseeb
 - 👀 I’m interested in  website , app and Game develpment  
 - 🌱 I’m currently learning  web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m finding a job
 - 📫 How to reach haseebismail703@gmail.com
 - My  bloge website => https://lucent-basbousa-44a9ce.netlify.app
 - ShareForYou ==> https://shareforyou.netlify.app
