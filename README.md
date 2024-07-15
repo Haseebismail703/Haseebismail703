@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haseebismail703"><img src="https://img.shields.io/github/followers/Haseebismail703.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Follow"/></a>
+  <a href="https://github.com/Haseebismail703"><img src="https://img.shields.io/github/followers/Haseebismail703?style=social" alt="GitHub Follow"/></a>
   <a href="https://github.com/Haseebismail703?tab=stars"><img src="https://img.shields.io/github/stars/Haseebismail703?style=social" alt="GitHub Stars"/></a>
 </p>
 
@@ -19,11 +19,10 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **building responsive web applications with React.js and Next.js**
-- 🌱 I’m currently learning ** Backend development with Node.js**
+- 🌱 I’m currently learning **Backend development with Node.js**
 - 👯 I’m looking to collaborate on **open-source projects related to web development**
 - 💬 Ask me about **frontend development, React.js, Next.js**
 - 📫 How to reach me: **[haseebismail703@gmail.com](mailto:haseebismail703@gmail.com)**
-
 
 ---
 
@@ -76,7 +75,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/haseebismail" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:haseebismail703@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:haseebismail703@gmail.com"><img src="https://www.svgrepo.com/show/299348/email.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
