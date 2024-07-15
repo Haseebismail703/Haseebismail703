@@ -23,6 +23,9 @@
 - 👯 I’m looking to collaborate on **open-source projects related to web development**
 - 💬 Ask me about **frontend development, React.js, Next.js**
 - 📫 How to reach me: **[haseebismail703@gmail.com](mailto:haseebismail703@gmail.com)**
+- 🌐 Check out my projects:
+  - [Blog Website](https://lucent-basbousa-44a9ce.netlify.app/) - Built with React.js and Firebase.
+  - [Share For You](https://shareforyou.netlify.app/) - Send image and text, current IP address.
 
 ---
 
@@ -35,6 +38,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</p>
+
+#### UI Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/70ec62b59182d7ecbc34f6cfe6f043d6ca17b133c398871ef1cdab0fa4d1e424/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" alt="Ant Design" width="40" height="40"/>
 </p>
 
 #### Tools & Others
@@ -75,7 +87,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/haseebismail" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:haseebismail703@gmail.com"><img src="https://www.svgrepo.com/show/299348/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:haseebismail703@gmail.com"><img src="https://i.pinimg.com/564x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
