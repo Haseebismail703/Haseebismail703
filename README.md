@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Haseeb Ismail 703</h1>
 <h3 align="center">Passionate Web Developer | SMIT Development Training | Skilled in HTML, CSS, JavaScript, React.js, and Next.js and Node js </h3>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" alt="Coding" width="400" />
-</p>
-
 <p align="center">
   <a href="https://github.com/Haseebismail703"><img src="https://img.shields.io/github/followers/Haseebismail703?style=social" alt="GitHub Follow"/></a>
   <a href="https://github.com/Haseebismail703?tab=stars"><img src="https://img.shields.io/github/stars/Haseebismail703?style=social" alt="GitHub Stars"/></a>
