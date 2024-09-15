@@ -21,6 +21,7 @@
 - 🌐 Check out my projects:
   - [Blog Website](https://lucent-basbousa-44a9ce.netlify.app/) - Built with React.js and Firebase.
   - [Share For You](https://shareforyou.netlify.app/) - Send image and text, current IP address.
+  - [Quiz website ](https://smit-quiz-front.vercel.app/) Take quiz.
 
 ---
 
