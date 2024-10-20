@@ -14,7 +14,6 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **building responsive web applications with React.js and Next.js**
-- 🌱 I’m currently learning **Backend development with Node.js**
 - 👯 I’m looking to collaborate on **open-source projects related to web development**
 - 💬 Ask me about **frontend development, React.js, Next.js**
 - 📫 How to reach me: **[haseebismail703@gmail.com](mailto:haseebismail703@gmail.com)**
