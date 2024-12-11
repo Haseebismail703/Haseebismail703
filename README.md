@@ -55,6 +55,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebismail703&bg_color=1a1b27&color=38bdae&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
 
 ### 📊 GitHub Stats
 
