@@ -21,10 +21,10 @@
   - [My portfolio](https://my-portfolio-nine-silk-74.vercel.app/) - Built with React.js and Node.js.
   - [Blog Website](https://lucent-basbousa-44a9ce.netlify.app/) - Built with React.js and Firebase.
   - [Share For You](https://shareforyou.netlify.app/) - Send image and text, current IP address.
-  - [Quiz website ](https://smit-quiz-front.vercel.app/) Take quiz admin can make quiz using AI.
-  - [AI-Powered Assignment Submission Portal ](https://smit-assigment-submission-portal.vercel.app/) AI-powered grading and feedback system.
+  - [Quiz website ](https://smit-quiz-front.vercel.app/) - Take quiz admin can make quiz using AI.
+  - [AI-Powered Assignment Submission Portal ](https://smit-assigment-submission-portal.vercel.app/) - AI-powered grading and feedback system.
   - [T-shirt store](https://t-shirt-store-sandy.vercel.app/) - Built with React.js and Node.js .
-
+  - [Pay per Task](https://pay-per-task-front.vercel.app/) - Built with React.js and Node.js .
 ---
 
 ### 🛠️ Skills & Tools
