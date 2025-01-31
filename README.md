@@ -24,7 +24,7 @@
   - [Quiz website ](https://smit-quiz-front.vercel.app/) - Take quiz admin can make quiz using AI.
   - [AI-Powered Assignment Submission Portal ](https://smit-assigment-submission-portal.vercel.app/) - AI-powered grading and feedback system.
   - [T-shirt store](https://t-shirt-store-sandy.vercel.app/) - Built with React.js and Node.js .
-  - [Pay per Task](https://pay-per-task-front.vercel.app/) - Built with React.js and Node.js .
+  - [Pay per Task](https://pay-per-task-front.vercel.app/) - an advertising network Built with React.js and Node.js .
 ---
 
 ### 🛠️ Skills & Tools
