@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Haseeb Ismail   </h1>
+<h1 align="center">Hi there 👋, I'm Haseeb Ismail </h1>
 <h3 align="center">Passionate Web Developer | SMIT Development Training | Skilled in HTML, CSS, JavaScript,Typescript,React.js, Next.js and Node js. </h3>
 <p align="center">
   <a href="https://github.com/Haseebismail703"><img src="https://img.shields.io/github/followers/Haseebismail703?style=social" alt="GitHub Follow"/> </a>
